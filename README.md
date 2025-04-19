@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idandvorkinn&label=Profile%20views&color=0e75b6&style=flat" alt="idandvorkinn" /> </p>
 
-- 🔭 I’m currently working on **SkillHub a Mobile skill based trade system**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
